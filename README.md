@@ -6,6 +6,7 @@
 4️⃣ **Solicita** un Pull Request.  
 
 Va a aparecer tu perfil de GitHub en la solicitud. Recuerda que había una tarea para personalizarlo.
-Izan Valverde Marín
+---
 
 ## 👥 Participantes
+* Izan Valverde Marín
